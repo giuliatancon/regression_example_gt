@@ -23,3 +23,4 @@ predicted_value = predict_value(x_new)
 expected_value = 15.0
 
 assert np.isclose(predicted_value[0], expected_value), "Prediction error"
+
