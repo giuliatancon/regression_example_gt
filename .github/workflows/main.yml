@@ -30,4 +30,4 @@ jobs:
 
       - name: Execute regression script
         run: |
-          python regression.py
+          python regression_gt.py
